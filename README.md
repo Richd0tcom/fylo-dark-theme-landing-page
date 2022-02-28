@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-with-tailwindcss-PLJBTH3jU)
-- Live Site URL: [Add live site URL here](https://richd0tcom.github.io/fylo-dark-theme-landing-page/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-landing-page-with-tailwindcss-PLJBTH3jU)
+- Live Site URL: [Live URl](https://richd0tcom.github.io/fylo-dark-theme-landing-page/)
 
 ## My process
 
