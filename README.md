@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-with-tailwindcss-PLJBTH3jU)
+- Live Site URL: [Add live site URL here](https://richd0tcom.github.io/fylo-dark-theme-landing-page/)
 
 ## My process
 
@@ -62,7 +62,7 @@ More on media queies and breakpoints
 some SVG's disappear on resize and then pop-up once more. I'd like to fix that. 
 ### Useful resources
 
-- [Pixel Perfect](https://www.example.com) - Chrome Extension for near pixel perfect development.  I really liked this extension and will use it going forward.
+- [Pixel Perfect]() - Chrome Extension for near pixel perfect development.  I really liked this extension and will use it going forward.
 
 
 
